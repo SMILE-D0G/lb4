@@ -22,7 +22,6 @@
 	}
 	else echo 'Неверный логин или пароль';  
   }
-  unset($_POST['submit']);
   ?>  
 </body>
 </html> 
